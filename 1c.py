@@ -1,0 +1,10 @@
+#Arithematic operations
+a=int(input("Enter the first number\n"))
+b=int(input("Enter the second number\n"))
+print('sum',a+b)
+print('sub',a-b)
+print('mul',a*b)
+print('div',a/b)
+print('Modulo',a%b)
+print('Float division',a//b)
+print('power',a**b)
